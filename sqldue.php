@@ -2,9 +2,9 @@
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
-$servername = "localhost";
-$username = "root";
-$password = "la_tua_password_di_mysql";
+$servername = "127.0.0.1";
+$username = "admin";
+$password = "kali";
 $dbname = "test_db";
 
 // Creare connessione
