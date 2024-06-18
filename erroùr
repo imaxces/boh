@@ -1,1 +1,0 @@
-Fatal error: Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' in /var/www/html/vulnerabile.php:11 Stack trace: #0 /var/www/html/vulnerabile.php(11): mysqli->__construct() #1 {main} thrown in /var/www/html/vulnerabile.php on line 11
